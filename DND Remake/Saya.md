@@ -18,7 +18,8 @@ Feeds on dreams once a week minimum (close enough for physical touch)
 
 ### Special Abilities
 - spider climb (climb at walking speed up to level 3 move in any direction including sealing)
-- dark vision 
+- dark vision (90ft)
+- infra vision (90ft)
 - no breathing required 
 - normal healing will not work 
 - any positive will be negative 
@@ -40,9 +41,9 @@ Feeds on dreams once a week minimum (close enough for physical touch)
 
 ## Important Stats 
 
-### Level: 1 
+### Level: 2 
 
-### XP: 2131
+### XP: 2131 / 2500
 
 ### AC: 4
 
@@ -74,13 +75,16 @@ Feeds on dreams once a week minimum (close enough for physical touch)
  - Long Bow +1 == short 1d8 / long 1d6
  - Darts == 1d3
  - Wand Cure == 1d8 raw hb recovery (6x daily) -2
+ >
+ x2 backstab damage 
 
  ### Skills 
  - open locks == 30%
- - move silent == 30%
- - hiding in shadows == 30%
+ - sneak == 40%
  - detect noise == 20%
- - find/remove traps == 15%
+ - find/remove traps == 25%
+ > 
+ +20% per level
  
  ### Proficiencies
  - Venom handling (dex -2)
